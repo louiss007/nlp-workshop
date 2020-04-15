@@ -1,2 +1,2 @@
 # nlp-workshop
-NLP techonoly
+NLP techonoly, primarily focus on representation learning tech and seq2seq tech
